@@ -1,6 +1,6 @@
 <hr>  </hr>
 
-<a href="https://github.com/BertoGit10/Polynomial-Chaos-Expansion"><img src="[https://static.wixstatic.com/media/50968c_8059692615244fd5b14d29c4a6beec21~mv2.png/v1/fill/w_1142,h_360,al_c,q_85,usm_0.66_1.00_0.01/Holy_Grail.webp](https://github.com/BertoGit10/Polynomial-Chaos-Expansion/blob/main/SufficientyIndicies.jpg)" align="right" height="165" width="295" ></a>
+<a href="https://github.com/BertoGit10/Polynomial-Chaos-Expansion"><img src="[https://github.com/BertoGit10/Polynomial-Chaos-Expansion/blob/main/SensitivityIndicies.jpg](https://github.com/BertoGit10/Polynomial-Chaos-Expansion/blob/main/SufficientyIndicies.jpg)" align="right" height="165" width="295" ></a>
 <H1> Polynomial Chaos Expansions </H1>
 
 Author: Alberto Thomas <br>
